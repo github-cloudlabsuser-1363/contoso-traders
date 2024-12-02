@@ -1,4 +1,3 @@
-
 # Contoso Traders
 
 ![Logo](./docs/images/logo-1280x640.png)
@@ -6,7 +5,6 @@
 ##  Architecture 
 
 ![Architecture](./docs/architecture/contoso-traders-enhancements.drawio.png)
-
 
 
 ## Contributing
