@@ -1,0 +1,22 @@
+{
+  "name": "contoso-traders",
+  "version": "1.0.0",
+  "description": "![Logo](./docs/images/logo-1280x640.png)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github-cloudlabsuser-1363/contoso-traders.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github-cloudlabsuser-1363/contoso-traders/issues"
+  },
+  "homepage": "https://github.com/github-cloudlabsuser-1363/contoso-traders#readme"
+}
